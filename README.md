@@ -1,2 +1,2 @@
 # World_Weather_Analysis
-## Deliverable 1 and 2 are present as of 5/8 at 10 PM CST. Submission of the analysis and deliverable 3 will be resubmitted at a later date
+## The Purpose of this project was to incorporate API's into a python script that would allow a person to pick an ideal location for vacation using randomized latitudes and longitudes, and then plotting several of these locations in an itinerary for a trip that person can take.
